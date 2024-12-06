@@ -1,0 +1,24 @@
+<FONT SIZE=+2 COLOR=NAVY><B>TSPY Exon 5 Æ11bp RC - Add 10154 to all values.</B></FONT>
+TSPY Exon 5 Æ11bp RC                                    (82 nt)
+ initn:  40 init1:  40 opt:  40
+Smith-Waterman score: 51;  71.429% identity in 21 nt overlap
+
+              370       380       390       400       410       420
+20KbR- GAGGAAGAAAAAAGCAAAAAACACAAAGCCATGGCAGGGCCATGGGTCACACCTGTCATC
+                                     :: ::::::   :: : ::::         
+TSPY   CCTCTTCAGGTGGCTTCATCCTCTTGTAGTATTGCAGGGGATTGCGCCACAGGTCCTTAC
+          20        30        40        50        60        70     
+
+              430       440       450       460       470       480
+20KbR- CCAGCACTTTGATAAGCTGAGGTGGGAGGATTGCCTGCACTCAGGAGTTCCAGATGAGCC
+                                                                   
+TSPY   ATAGGAT                                                     
+          80                                                       
+
+
+>Matched Region for 20KbRepeat
+ATGGCAGGGCCATGGGTCACA
+
+>Matched Region for TSPY Exon 5 Æ11bp
+TGTGGCGCAATCCCCTGCAAT
+<FONT COLOR=brick>The normal complement is shown for the match.</FONT>

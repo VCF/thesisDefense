@@ -1,0 +1,23 @@
+<FONT SIZE=+2 COLOR=NAVY><B>TSPY Exon 5 Æ11bp - Add 10154 to all values.</B></FONT>
+TSPY Exon 5 Æ11bp                                       (82 nt)
+ initn:  40 init1:  40 opt:  40
+Smith-Waterman score: 64;  61.017% identity in 59 nt overlap
+
+         900       910       920       930       940       950     
+20KbR- TAAAAGTACGAAGAGTGCTTCTTTTCAATTCAATGCCCTTGAATTCAGAATTAGAAAGTA
+                                     :::: ::::  ::: :   :  :: : :  
+TSPY          ATCCTATGTAAGGACCTGTGGCGCAATCCCCTGCAATACTACAAGAGGATG--
+                      10        20        30        40        50   
+
+         960       970       980       990      1000      1010     
+20KbR- AACCCAGATAGAGAATAGAAACATAGACGATACAGATGGAGAGAGTGTGGTGGGGAAGCA
+       :: :::  :  :::   : :::: :::::                               
+TSPY   AAGCCACCTGAAGAG--GGAACAGAGACGTCAG                           
+              60          70        80                             
+
+
+>Matched Region for 20KbRepeat
+CAATGCCCTTGAATTCAGAATTAGAAAGTAAACCCAGATAGAGAATAGAAACATAGACG
+
+>Matched Region for TSPY Exon 5 Æ11bp
+CAATCCCCTGCAATACTACAAGAGGATGAAGCCACCTGAAGAGGGAACAGAGACG
