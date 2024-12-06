@@ -8,7 +8,7 @@ Just a container to hold files from my graduate thesis.
 * [Code][Code] - Collection of Perl and C code used to run simulated
   annealing to order markers, while accounting for probes that might
   be present in multiple locations. Also includes a Java applet for
-  scoring agarose gels. I appear to be missing some of my code.
+  scoring agarose gels.
 
 [Thesis]: Thesis.pdf
 [Defense]: ThesisDefense.pdf
